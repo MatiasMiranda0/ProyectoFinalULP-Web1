@@ -1,0 +1,37 @@
+.body-index-fondo{
+    background: linear-gradient(rgb(131, 131, 226),rgb(176, 118, 230));
+}
+/*.fondo{
+    opacity: 0.5;
+}*/
+.enlaces-index{
+    background-color: gray;
+    display: inline-block;
+}
+.h1-index{
+    background: linear-gradient(blueviolet,aqua,blueviolet);
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    
+}
+a:hover{
+    background-color: rgb(141, 235, 128);
+}
+.footer-index{
+
+}
+.titulo-formulario{
+    margin: 40;
+}
+.formulario{
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.lista-formulario{
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
